@@ -1,5 +1,4 @@
 # LABORATORIO365
-Crear una página web para una prueba de penetración con contraseña y un script en Python para intentar averiguarla puede ser un ejercicio educativo interesante. A continuación, te muestro cómo hacerlo en Termux.
 
 ### 1. Configuración de Termux
 
