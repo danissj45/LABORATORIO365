@@ -67,4 +67,4 @@ git clone https://github.com/danissj45/LABORATORIO365
 - Recuerda siempre usar este programa de manera ética y solo en sistemas donde tengas permiso para realizar pruebas de penetración.
 - Asegúrate de que la URL y las credenciales que estás probando sean legítimas y que estés autorizado para hacerlo.
 
-- 
+  
