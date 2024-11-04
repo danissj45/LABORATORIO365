@@ -1,5 +1,5 @@
 # LABORATORIO365
-
+ 
 ### 1. Configuración de Termux
 
 Primero, asegúrate de tener Python y Flask instalados en Termux. Si no lo has hecho, ejecuta los siguientes comandos:
