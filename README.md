@@ -1,4 +1,4 @@
-# LABORATORIO365
+# LABORATORIO365 
 INSTALACCION
 ### 1. Configuración de Termux
 
