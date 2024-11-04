@@ -2,7 +2,7 @@ import requests
 import time
 import os
 from colorama import Fore, Style, init
-
+ 
 # Inicializar colorama
 init(autoreset=True)
 
